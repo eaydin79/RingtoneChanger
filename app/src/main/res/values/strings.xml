@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Ringtone Changer</string>
+    <string name="ringtones">Ringtones</string>
+    <string name="notifications">Notifications</string>
+    <string name="alarms">Alarms</string>
+    <string name="menu_apply">Apply</string>
+    <string name="msg_success">Changed successfully</string>
+    <string name="txt_directory">Directory</string>
+    <string name="txt_not_selected">Not selected</string>
+    <string name="txt_directory_info">Tap to select directory</string>
+    <string name="txt_permission">Permission</string>
+    <string name="dialog_permission">Tap OK to grant or revoke the permission</string>
+    <string name="txt_permission_required">You need \"Modify System Settings\" permission</string>
+    <string name="txt_permission_granted">You have \"Modify System Settings\" permission</string>
+    <string name="txt_permission_info_required">Tap to give the permission to change ringtones</string>
+    <string name="txt_permission_info_granted">Tap to revoke the permission</string>
+    <string name="exception_msg">Something went wrong!</string>
+    <string name="btn_ok">OK</string>
+</resources>

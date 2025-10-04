@@ -1,6 +1,5 @@
 package com.eaydin79.ringtonechanger;
 
-import android.annotation.SuppressLint;
 import android.app.Activity;
 import android.app.AlertDialog;
 import android.content.Intent;
@@ -38,7 +37,6 @@ public class FileListActivity extends Activity {
     private MenuItem menuItemApply;
     private Uri selectedAudioUri;
 
-    @SuppressLint("InflateParams")
     private void setRingtone() {
         try {
             RingtoneManager.setActualDefaultRingtoneUri(this, fileType, selectedAudioUri);

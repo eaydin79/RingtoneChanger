@@ -204,7 +204,7 @@ public class FileListActivity extends Activity {
         super.onResume();
         setPermissionLayout();
         setDirectoryLayout();
-        loadList(); //TO-DO loadFiles on background thread to avoid UI freeze
+        loadList(); //TO-DO: loadFiles() on a background thread to avoid lag or freeze
     }
 
     @Override

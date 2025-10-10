@@ -1,8 +1,10 @@
-Simple ringtone changer app which doesn't require internet connection, you can choose any local folder contains audio files and set them as ringtone, notification or alarm sounds.
+<b>Simple Ringtone Changer App</b><br>
+<br>
+A simple ringtone changer app that doesn't require an internet connection. You can select any local folder containing audio files and set them as your ringtone, notification, or alarm sound.
 
-Because of android security restrictions, the app needs "Modify system settings" permission to change ringtone settings. Users can revoke the permission anytime even uninstall the app without losing ringtone changes
+Due to Android's security restrictions, the app requires the "Modify system settings" permission to change ringtone settings. You can revoke this permission at any time or uninstall the app without losing your current ringtone selections.
 
-Works on android 9 or later (Api level 28)
+Compatible with Android 9 (API level 28) or higher.
 
 <img width="495" height="389" alt="Screenshot1" src="https://github.com/user-attachments/assets/e66b4de8-6602-4f9a-a342-e7429fbc4988" />
 <br>
